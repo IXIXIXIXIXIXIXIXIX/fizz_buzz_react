@@ -1,3 +1,6 @@
+# A very simple implementation of the game Fizz-Buzz
+This is just a quick exercise to gain familiarity with React. It isn't exiting but I like seeing it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
